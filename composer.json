@@ -1,0 +1,9 @@
+{
+    "name": "anthony/post",
+    "description": "Proyeto de OOP",
+    "autoload": {
+        "psr-4": {
+            "Blog\\": "src/"
+        }
+    }
+}
